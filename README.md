@@ -6,7 +6,7 @@
 
 <summary>Tier 1</summary>
 
-## Advice and consultation - $500
+## Advice and consultation
 
 All these services can be done in-house by BRIDGR
 
@@ -36,7 +36,7 @@ All these services can be done in-house by BRIDGR
 
 <summary>Tier 2</summary>
 
-## Exposure & Advertising - $500 to $1000
+## Exposure & Advertising
 
 * IRL events exposure (they pay towards sponsorship and get graphics)
 * Collective social media exposure from worldwide Alpha Partners
@@ -68,7 +68,7 @@ All these services can be done in-house by BRIDGR
 
 <summary>Tier 4</summary>
 
-## Technical Support - $2000+&#x20;
+## Technical Support&#x20;
 
 Potentially done semi in-house by Jokong and Kolsas if the pay is good enough. Else subcontract.
 
