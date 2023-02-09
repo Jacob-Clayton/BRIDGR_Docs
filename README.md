@@ -1,8 +1,4 @@
----
-description: This is for customers only. Not potential partners.
----
-
-# BRIDGR Customer Services
+# BRIDGR Consultancy Services
 
 ## A Tiered Service Approach
 
