@@ -1,3 +1,9 @@
+---
+description: >-
+  Personally, I'm in favour of hiding this 'Partner Program' aspect publicly and
+  only privately approaching potential partners (or seeing who approaches us).
+---
+
 # BRIDGR Partner Program
 
 A Tiered Sytem&#x20;

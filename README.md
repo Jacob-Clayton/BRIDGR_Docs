@@ -4,7 +4,7 @@ description: This is for customers only. Not potential partners.
 
 # BRIDGR Customer Services
 
-## A Tiered Approach?
+## A Tiered Service Approach
 
 <details>
 
