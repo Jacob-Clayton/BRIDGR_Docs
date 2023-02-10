@@ -35,6 +35,8 @@ _A network to increase exposure. Easily Scalable._
 
 _This is one of two ways BRIDGR makes money. The other is via direct consultancy._
 
+_Scaling is more of a challenge with paying Partners as they will require a lot of admin time._
+
 **Must have:**&#x20;
 
 * A valuable Web3 service that they are willing to share with BRIDGR
