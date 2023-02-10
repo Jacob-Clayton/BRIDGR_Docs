@@ -4,7 +4,7 @@ A Tiered Sytem
 
 <details>
 
-<summary>Friends of BRIDGR - <mark style="color:blue;">FREE</mark></summary>
+<summary>Friends - <mark style="color:blue;">FREE</mark></summary>
 
 _Basically a network to increase exposure_
 
