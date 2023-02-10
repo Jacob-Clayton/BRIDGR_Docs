@@ -7,7 +7,7 @@
 ## BRIDGR Services
 
 * [WEB3 SOCIAL](bridgr-services/web3-social.md)
-* [BRIDGR Consultancy Services](bridgr-services/bridgr-consultancy-services.md)
+* [Web3 Consultancy](bridgr-services/web3-consultancy.md)
 * [Network Access](bridgr-services/network-access.md)
 * [Game Integration](bridgr-services/game-integration.md)
 * [Education](bridgr-services/education.md)

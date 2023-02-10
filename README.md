@@ -48,7 +48,7 @@ _This one of two ways BRIDGR makes money. The other is via direct consultancy._
 **They get:**
 
 * Access to all BRIDGR's Partner services:
-  * [Consultancy](bridgr-services/bridgr-consultancy-services.md)
+  * [Consultancy](bridgr-services/web3-consultancy.md)
   * [Network Access](bridgr-services/network-access.md)
   * [Community Access](bridgr-services/community-access.md)
   * [Game Integration](bridgr-services/game-integration.md)
