@@ -6,7 +6,9 @@ A Tiered Sytem
 
 <summary>Friends - <mark style="color:blue;">FREE</mark></summary>
 
-The "BRIDGR Collective" - a _network to increase exposure. Easily Scalable._
+The "BRIDGR Collective" - a _network to increase exposure._&#x20;
+
+_The easily scalable part of BRIDGR._
 
 **Friends must be:**&#x20;
 
