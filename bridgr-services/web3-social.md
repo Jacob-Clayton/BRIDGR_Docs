@@ -1,5 +1,7 @@
 # WEB3 SOCIAL
 
+<figure><img src="../.gitbook/assets/bridgr-1920.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Value proposition for partners
 
 * Networking with fellow Web3 enthusiasts

@@ -1,5 +1,7 @@
 # BRIDGR Consultancy Services
 
+<figure><img src="../.gitbook/assets/bridgrlogo(11).png" alt=""><figcaption></figcaption></figure>
+
 ## Advice and Consultation service to onboard Web2 companies
 
 When there is too much work to handle, we hire consultants and scale that way.
@@ -70,7 +72,9 @@ Potentially done semi in-house by Jokong and Kolsas if the pay is good enough. E
 
 <summary>USP: Post-consultancy perks</summary>
 
-The consultancy acts as a sales pipeline for the rest of BRIDGR's services and onboarding as a paid partner.
+All consultancy customers get onboarded as a "Friend of BRIDGR' for free.
+
+The consultancy acts as a sales pipeline for the rest of BRIDGR's services, making conversion into a paid partner easier.
 
 ## Network Access
 
