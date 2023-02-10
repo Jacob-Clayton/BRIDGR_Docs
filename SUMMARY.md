@@ -1,8 +1,8 @@
 # Table of contents
 
-## BRIDGR Association
+## BRIDGR Collective
 
-* [BRIDGR Partner Program](README.md)
+* [Partner Program](README.md)
 
 ## BRIDGR Services
 
