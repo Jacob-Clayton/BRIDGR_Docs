@@ -6,6 +6,8 @@ A Tiered Sytem&#x20;
 
 <summary>Friends of BRIDGR - FREE</summary>
 
+_Basically a network to increase exposure_
+
 **Must be:**&#x20;
 
 * Web3 project with solid teams and/or a solid runway
@@ -13,11 +15,13 @@ A Tiered Sytem&#x20;
 
 **BRIDGR gets:**
 
+* Access to their community and network.
 * Their logos on our website
 
 **They get:**
 
-* Exposure via BRIDGR communications
+* Exposure via BRIDGR's communications (Not Partner communications).
+* Sponsorship deals at WEB3 SOCIALS near them.
 
 **They Pay:**
 
