@@ -6,11 +6,11 @@ A Tiered Sytem
 
 <summary>Friends - <mark style="color:blue;">FREE</mark></summary>
 
-_Basically a network to increase exposure_
+_A network to increase exposure. Easily Scalable._
 
-**Must be:**&#x20;
+**Friends must be:**&#x20;
 
-* Web3 project with solid teams and/or a solid runway
+* A Web3 project with solid team and/or a solid runway
 * OR a customer of our consultancy service
 
 **BRIDGR gets:**
@@ -18,12 +18,12 @@ _Basically a network to increase exposure_
 * Access to their community and network.
 * Their logos on our website
 
-**They get:**
+**Friends get:**
 
 * Exposure via BRIDGR's communications (Not Partner communications).
-* Sponsorship deals at WEB3 SOCIALS near them.
+* Sponsorship deals for, and invites to WEB3 SOCIALS worldwide.
 
-**They Pay:**
+**Friends Pay:**
 
 * Nothing
 
