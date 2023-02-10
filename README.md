@@ -1,4 +1,4 @@
-# BRIDGR Partner Program
+# Partner Program
 
 A Tiered Sytem
 
@@ -33,7 +33,7 @@ _Basically a network to increase exposure_
 
 <summary>Partner - <mark style="color:green;">PAID</mark></summary>
 
-_This one of two ways BRIDGR makes money. The other is via direct consultancy._
+_This is one of two ways BRIDGR makes money. The other is via direct consultancy._
 
 **Must have:**&#x20;
 
