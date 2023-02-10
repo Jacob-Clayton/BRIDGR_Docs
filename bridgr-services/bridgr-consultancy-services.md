@@ -6,6 +6,8 @@
 
 When there is too much work to handle, we hire consultants and scale that way.
 
+**All consultancy services are custom built and charged to the needs of the client.**
+
 <details>
 
 <summary>In-house </summary>
