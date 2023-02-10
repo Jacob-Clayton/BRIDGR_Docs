@@ -1,10 +1,10 @@
 # BRIDGR Partner Program
 
-A Tiered Sytem&#x20;
+A Tiered Sytem
 
 <details>
 
-<summary>Friends of BRIDGR - FREE</summary>
+<summary>Friends of BRIDGR - <mark style="color:blue;">FREE</mark></summary>
 
 _Basically a network to increase exposure_
 
@@ -31,7 +31,9 @@ _Basically a network to increase exposure_
 
 <details>
 
-<summary>Partner - PAID</summary>
+<summary>Partner - <mark style="color:green;">PAID</mark></summary>
+
+_This one of two ways BRIDGR makes money. The other is via direct consultancy._
 
 **Must have:**&#x20;
 
@@ -63,7 +65,7 @@ _Basically a network to increase exposure_
 
 <details>
 
-<summary>Alpha Partnership - % of profits</summary>
+<summary>Alpha Partnership - <mark style="color:purple;">% of profits</mark></summary>
 
 _Only 2 remaining places_
 
