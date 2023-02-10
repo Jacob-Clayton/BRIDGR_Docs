@@ -2,6 +2,6 @@
 
 TBC by sima
 
-## Advice only at extra charge.
+## Advice only via BRIDGR (at extra charge)
 
-Full legal services done separately?&#x20;
+Full legal services done completley separately?
