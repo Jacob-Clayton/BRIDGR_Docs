@@ -1,5 +1,7 @@
 # Table of contents
 
+## BRIDGR Association
+
 * [BRIDGR Partner Program](README.md)
 
 ## BRIDGR Services
