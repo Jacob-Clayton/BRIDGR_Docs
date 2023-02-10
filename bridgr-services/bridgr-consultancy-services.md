@@ -70,9 +70,7 @@ Potentially done semi in-house by Jokong and Kolsas if the pay is good enough. E
 
 <summary>USP: Post-consultancy perks</summary>
 
-All consultancy customers get onboarded as a "Friend of BRIDGR' for free.
-
-The consultancy acts as a sales pipeline for the rest of BRIDGR's services, making conversion into a paid partner easier.
+The consultancy acts as a sales pipeline for the rest of BRIDGR's services and onboarding as a paid partner.
 
 ## Network Access
 

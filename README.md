@@ -9,6 +9,7 @@ A Tiered Sytem&#x20;
 **Must be:**&#x20;
 
 * Web3 project with solid teams and/or a solid runway
+* OR a customer of our consultancy service
 
 **BRIDGR gets:**
 
