@@ -78,6 +78,8 @@ All consultancy customers get onboarded as a "Friend of BRIDGR' for free.
 
 The consultancy acts as a sales pipeline for the rest of BRIDGR's services, making conversion into a paid partner easier.
 
+## WEB3 SOCIAL
+
 ## Network Access
 
 ## Community Access
@@ -85,6 +87,8 @@ The consultancy acts as a sales pipeline for the rest of BRIDGR's services, maki
 ## Metaverse & Game Integration
 
 ## Education
+
+## Whitelists
 
 ## Legal
 
