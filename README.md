@@ -65,7 +65,7 @@ _This one of two ways BRIDGR makes money. The other is via direct consultancy._
 
 <details>
 
-<summary>Alpha Partnership - <mark style="color:purple;">% of profits</mark></summary>
+<summary>Alpha Partner - <mark style="color:purple;">% of profits</mark></summary>
 
 _Only 2 remaining places_
 
