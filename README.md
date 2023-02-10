@@ -1,6 +1,6 @@
 # BRIDGR Partner Program
 
-A Tiered Sytem&#x20;
+A Tiered Sytem
 
 <details>
 
@@ -32,6 +32,8 @@ _Basically a network to increase exposure_
 <details>
 
 <summary>Partner - PAID</summary>
+
+_This one of two ways BRIDGR makes money. The other is via direct consultancy._
 
 **Must have:**&#x20;
 
