@@ -35,13 +35,8 @@ All these services can be done in-house by BRIDGR.&#x20;
 * IRL events exposure (they pay towards sponsorship and get graphics)
 * Collective social media exposure from worldwide Alpha Partners
 * News article published and spread among alpha partners
-* Network access - RTs on Twitter and Linkedin
-* Community access
-* Education
 * Twitter spaces & Discord AMAs.
-* Whitelists
 * Influencers that align with the customer via Mad for NFTs
-* more?
 
 ## Technical Services:
 
