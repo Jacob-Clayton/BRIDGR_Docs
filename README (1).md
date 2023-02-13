@@ -13,6 +13,7 @@ _The easily scalable part of BRIDGR._
 **Friends must be:**&#x20;
 
 * A Web3 project with solid team and/or a solid runway
+* A sponsor of a WEB3 SOCIAL event
 * OR a customer of our consultancy service
 
 **BRIDGR gets:**
