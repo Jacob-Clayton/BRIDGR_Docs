@@ -1,10 +1,8 @@
 # Table of contents
 
-* [About](README.md)
-
 ## BRIDGR Collective
 
-* [Partner Program](<README (1).md>)
+* [Partner Program](README.md)
 
 ## BRIDGR Services
 
