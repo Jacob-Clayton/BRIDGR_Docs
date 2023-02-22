@@ -4,22 +4,17 @@
 
 * [Partner Program](README.md)
 
-## Web3 Acceleration
+## Services
 
-* [Game Integration](web3-acceleration/game-integration.md)
-* [Network Access](web3-acceleration/network-access.md)
-
-## Web3 Onboarding
-
-* [Legal](web3-onboarding/legal.md)
-* [Education](web3-onboarding/education.md)
-* [Web3 Consultancy](web3-onboarding/web3-consultancy.md)
-
-## Global Events
-
-* [WEB3 SOCIAL](global-events/web3-social.md)
-
-## Shared Community
-
-* [Community Access](shared-community/community-access.md)
-* [Whitelists](shared-community/whitelists.md)
+* [👪 Shared Community](services/shared-community/README.md)
+  * [Community Access](services/shared-community/community-access.md)
+  * [Whitelists](services/shared-community/whitelists.md)
+* [🎉 Global Events](services/global-events/README.md)
+  * [WEB3 SOCIAL](services/global-events/web3-social.md)
+* [📈 Web3 Acceleration](services/web3-acceleration/README.md)
+  * [Game Integration](services/web3-acceleration/game-integration.md)
+  * [Network Access](services/web3-acceleration/network-access.md)
+* [🏗 Web3 Onboarding](services/web3-onboarding/README.md)
+  * [Legal](services/web3-onboarding/legal.md)
+  * [Education](services/web3-onboarding/education.md)
+  * [Web3 Consultancy](services/web3-onboarding/web3-consultancy.md)
