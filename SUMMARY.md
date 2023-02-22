@@ -4,13 +4,22 @@
 
 * [Partner Program](README.md)
 
-## BRIDGR Services
+## Web3 Acceleration
 
-* [WEB3 SOCIAL](bridgr-services/web3-social.md)
-* [Web3 Consultancy](bridgr-services/web3-consultancy.md)
-* [Network Access](bridgr-services/network-access.md)
-* [Game Integration](bridgr-services/game-integration.md)
-* [Education](bridgr-services/education.md)
-* [Community Access](bridgr-services/community-access.md)
-* [Legal](bridgr-services/legal.md)
-* [Whitelists](bridgr-services/whitelists.md)
+* [Game Integration](web3-acceleration/game-integration.md)
+* [Network Access](web3-acceleration/network-access.md)
+
+## Web3 Onboarding
+
+* [Legal](web3-onboarding/legal.md)
+* [Education](web3-onboarding/education.md)
+* [Web3 Consultancy](web3-onboarding/web3-consultancy.md)
+
+## Global Events
+
+* [WEB3 SOCIAL](global-events/web3-social.md)
+
+## Shared Community
+
+* [Community Access](shared-community/community-access.md)
+* [Whitelists](shared-community/whitelists.md)
