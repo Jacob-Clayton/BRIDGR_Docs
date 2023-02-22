@@ -1,2 +1,2 @@
-# 📈 Web3 Acceleration
+# Web3 Acceleration
 

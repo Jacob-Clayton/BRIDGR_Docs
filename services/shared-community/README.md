@@ -1,2 +1,2 @@
-# 👪 Shared Community
+# Shared Community
 

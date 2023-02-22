@@ -1,2 +1,2 @@
-# 🏗 Web3 Onboarding
+# Web3 Onboarding
 

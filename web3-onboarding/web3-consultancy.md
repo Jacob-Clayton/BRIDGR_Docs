@@ -1,6 +1,6 @@
 # Web3 Consultancy
 
-<figure><img src="../../.gitbook/assets/bridgrlogo(11).png" alt=""><figcaption><p>WEB3 SOCIAL, WEB3 CONSULTANCY... etc</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bridgrlogo(11).png" alt=""><figcaption><p>WEB3 SOCIAL, WEB3 CONSULTANCY... etc</p></figcaption></figure>
 
 ## Advice and Consultation service to onboard Web2 companies
 

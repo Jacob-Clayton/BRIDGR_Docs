@@ -1,2 +1,2 @@
-# 🎉 Global Events
+# Global Events
 
