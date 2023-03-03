@@ -1,6 +1,4 @@
-# Partner Program
-
-A Tiered Sytem
+# Welcome to BRIDGR
 
 <details>
 
