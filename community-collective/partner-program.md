@@ -4,7 +4,7 @@ Become a friend to get free exposure through BRIDGR
 
 <details>
 
-<summary>Friends - <mark style="color:blue;">Free</mark></summary>
+<summary>Friend - <mark style="color:blue;">Free</mark></summary>
 
 The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 
