@@ -6,9 +6,9 @@
   * [Team](welcome-to-bridgr/team.md)
   * [Links](welcome-to-bridgr/links.md)
 
-## BRIDGR Collective
+## Community Collective
 
-* [Partner Program](bridgr-collective/partner-program.md)
+* [Partner Program](community-collective/partner-program.md)
 
 ## Services
 
