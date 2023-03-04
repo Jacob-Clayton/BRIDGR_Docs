@@ -2,8 +2,6 @@
 
 Become a friend to get free exposure through BRIDGR
 
-Become a partner to access all our full benefits
-
 <details>
 
 <summary>Friends - <mark style="color:blue;">Free</mark></summary>
@@ -30,6 +28,8 @@ The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 * Nothing
 
 </details>
+
+Become a partner to access all our full benefits
 
 <details>
 
