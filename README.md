@@ -1,4 +1,8 @@
-# Welcome to BRIDGR
+---
+description: Grow your Web3 business with BRIDGR
+---
+
+# Grow with BRIDGR
 
 {% content-ref url="readme/whitepaper.md" %}
 [whitepaper.md](readme/whitepaper.md)
