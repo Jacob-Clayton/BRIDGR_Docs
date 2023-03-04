@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to BRIDGR](README.md)
+  * [Whitepaper](readme/whitepaper.md)
   * [Story](welcome-to-bridgr/origins.md)
   * [Misson](welcome-to-bridgr/misson.md)
   * [Team](welcome-to-bridgr/team.md)
