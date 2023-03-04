@@ -9,6 +9,7 @@
 
 ## Community Collective
 
+* [Friends of BRIDGR](community-collective/friends-of-bridgr.md)
 * [Partner Program](community-collective/partner-program.md)
 
 ## Services
