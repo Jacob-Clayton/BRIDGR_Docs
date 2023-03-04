@@ -10,18 +10,15 @@ Become a partner to access all our full benefits
 
 The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 
-_The easily scalable part of BRIDGR._
-
 **Friends must be:**&#x20;
 
 * A Web3 project with solid team and/or a solid runway
-* A sponsor of a WEB3 SOCIAL event
-* OR a customer of our consultancy service
+* A sponsor of one of BRIDGR's WEB3 SOCIAL events
+* Or a customer of our consultancy service
 
 **BRIDGR gets:**
 
 * Access to their community and network.
-* Their logos on our website
 
 **Friends get:**
 
@@ -38,19 +35,16 @@ _The easily scalable part of BRIDGR._
 
 <summary>Partner - <mark style="color:green;">Paid</mark></summary>
 
-_This is one of two ways BRIDGR makes money. The other is via direct consultancy._
-
-_Scaling is more of a challenge with paying Partners as they will require a lot of admin time._
+_Join the BRIDGR network and get full access to all our partner's services_
 
 **Must have:**&#x20;
 
 * A valuable Web3 service that they are willing to share with BRIDGR
-* Willingness to host events in their location
+* Open to hosting events in their location
 
 **BRIDGR gets:**
 
-* Their logo on our website
-* Ability to offer their services to the rest of BRIDGR's Partners
+* Ability to offer their services and network to the rest of BRIDGR's Partners
 
 **They get:**
 

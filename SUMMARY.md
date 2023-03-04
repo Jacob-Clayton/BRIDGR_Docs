@@ -12,8 +12,8 @@
 
 ## Membership
 
-* [Partner Program](membership/partner-program.md)
-* [Current Partners](membership/current-partners.md)
+* [Partner Program](community-collective/partner-program.md)
+* [Current Partners](community-collective/current-partners.md)
 
 ## Membership Benefits
 
