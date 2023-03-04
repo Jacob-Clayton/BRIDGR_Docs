@@ -1,5 +1,9 @@
 # Welcome to BRIDGR
 
+{% content-ref url="readme/whitepaper.md" %}
+[whitepaper.md](readme/whitepaper.md)
+{% endcontent-ref %}
+
 <details>
 
 <summary>Friends - <mark style="color:blue;">FREE</mark></summary>
