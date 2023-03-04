@@ -12,8 +12,8 @@
 
 ## Community Collective
 
-* [Current Partners](community-collective/current-partners.md)
 * [Partner Program](community-collective/partner-program.md)
+* [Current Partners](community-collective/current-partners.md)
 
 ## Membership Benefits
 
