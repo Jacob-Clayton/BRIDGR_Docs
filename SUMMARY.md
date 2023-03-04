@@ -2,12 +2,13 @@
 
 ## BRIDGR
 
-* [Web3 growth with BRIDGR](README.md)
-  * [Whitepaper](bridgr/readme/whitepaper.md)
+* [About us](README.md)
+* [Web3 growth with BRIDGR](<README (1).md>)
   * [Story](bridgr/readme/origins.md)
   * [Misson](bridgr/readme/misson.md)
   * [Team](bridgr/readme/team.md)
   * [Links](bridgr/readme/links.md)
+* [Whitepaper](bridgr/whitepaper.md)
 
 ## Community Collective
 
