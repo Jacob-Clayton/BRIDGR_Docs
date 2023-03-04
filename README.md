@@ -1,5 +1,5 @@
 ---
-description: Grow your Web3 business with BRIDGR
+description: Grow your Web3 business with us
 ---
 
 # Web3 growth with BRIDGR
