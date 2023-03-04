@@ -1,6 +1,8 @@
 # Partner Program
 
-Join our collective to get free exposure through BRIDGR, or become a paying partner to access all our services
+Become a friend to get free exposure through BRIDGR
+
+Become a partner to access all our full benefits
 
 <details>
 
