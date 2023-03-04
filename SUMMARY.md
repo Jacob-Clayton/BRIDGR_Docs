@@ -1,28 +1,29 @@
 # Table of contents
 
-* [Grow with BRIDGR](README.md)
-  * [Whitepaper](readme/whitepaper.md)
-  * [Story](welcome-to-bridgr/origins.md)
-  * [Misson](welcome-to-bridgr/misson.md)
-  * [Team](welcome-to-bridgr/team.md)
-  * [Links](welcome-to-bridgr/links.md)
+## BRIDGR
+
+* [Web3 growth with BRIDGR](README.md)
+  * [Whitepaper](bridgr/readme/whitepaper.md)
+  * [Story](bridgr/readme/origins.md)
+  * [Misson](bridgr/readme/misson.md)
+  * [Team](bridgr/readme/team.md)
+  * [Links](bridgr/readme/links.md)
 
 ## Community Collective
 
-* [Friends of BRIDGR](community-collective/friends-of-bridgr.md)
 * [Partner Program](community-collective/partner-program.md)
 
-## Services
+## Membership Benefits
 
-* [Shared Community](services/shared-community/README.md)
-  * [Community Access](shared-community/community-access.md)
-  * [Whitelists](shared-community/whitelists.md)
-* [Global Events](services/global-events/README.md)
-  * [WEB3 SOCIAL](global-events/web3-social.md)
-* [Web3 Acceleration](services/web3-acceleration/README.md)
-  * [Game Integration](web3-acceleration/game-integration.md)
-  * [Network Access](web3-acceleration/network-access.md)
-* [Web3 Onboarding](services/web3-onboarding/README.md)
-  * [Legal](web3-onboarding/legal.md)
-  * [Education](web3-onboarding/education.md)
-  * [Web3 Consultancy](web3-onboarding/web3-consultancy.md)
+* [Shared Community](membership-benefits/shared-community/README.md)
+  * [Community Access](membership-benefits/shared-community/community-access.md)
+  * [Whitelists](membership-benefits/shared-community/whitelists.md)
+* [Global Events](membership-benefits/global-events/README.md)
+  * [WEB3 SOCIAL](membership-benefits/global-events/web3-social.md)
+* [Web3 Acceleration](membership-benefits/web3-acceleration/README.md)
+  * [Game Integration](membership-benefits/web3-acceleration/game-integration.md)
+  * [Network Access](membership-benefits/web3-acceleration/network-access.md)
+* [Web3 Onboarding](membership-benefits/web3-onboarding/README.md)
+  * [Legal](membership-benefits/web3-onboarding/legal.md)
+  * [Education](membership-benefits/web3-onboarding/education.md)
+  * [Web3 Consultancy](membership-benefits/web3-onboarding/web3-consultancy.md)

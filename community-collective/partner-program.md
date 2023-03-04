@@ -53,14 +53,14 @@ _Scaling is more of a challenge with paying Partners as they will require a lot 
 **They get:**
 
 * Access to all BRIDGR's Partner services:
-  * [Consultancy](../web3-onboarding/web3-consultancy.md)
-  * [Network Access](../web3-acceleration/network-access.md)
-  * [Community Access](../shared-community/community-access.md)
-  * [Game Integration](../web3-acceleration/game-integration.md)
-  * [Education](../web3-onboarding/education.md)
-  * [IRL WEB3 SOCIAL](../global-events/web3-social.md)
-  * [Whitelists](../shared-community/whitelists.md)
-  * [Legal](../web3-onboarding/legal.md)
+  * [Consultancy](../membership-benefits/web3-onboarding/web3-consultancy.md)
+  * [Network Access](../membership-benefits/web3-acceleration/network-access.md)
+  * [Community Access](../membership-benefits/shared-community/community-access.md)
+  * [Game Integration](../membership-benefits/web3-acceleration/game-integration.md)
+  * [Education](../membership-benefits/web3-onboarding/education.md)
+  * [IRL WEB3 SOCIAL](../membership-benefits/global-events/web3-social.md)
+  * [Whitelists](../membership-benefits/shared-community/whitelists.md)
+  * [Legal](../membership-benefits/web3-onboarding/legal.md)
 
 **They pay:**
 
