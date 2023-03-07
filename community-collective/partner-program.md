@@ -1,10 +1,10 @@
 # Partner Program
 
-Become a friend to get free exposure through BRIDGR
+Become a friend to get exposure through BRIDGR and access to some of our assets.
 
 <details>
 
-<summary>Friend - <mark style="color:blue;">Free</mark></summary>
+<summary><mark style="color:blue;">Friend</mark> - $200</summary>
 
 The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 
@@ -29,11 +29,11 @@ The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 
 </details>
 
-Become a partner to access all our full benefits
+Become a partner to access all our full range of membership benefits
 
 <details>
 
-<summary>Partner - <mark style="color:green;">Paid</mark></summary>
+<summary><mark style="color:green;">Partner</mark> - $2000</summary>
 
 _Join the BRIDGR network and get full access to all our partner's services_
 
