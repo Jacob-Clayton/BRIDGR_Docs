@@ -4,11 +4,7 @@
 
 * [Grow with BRIDGR](README.md)
 * [Whitepaper](bridgr/readme/whitepaper.md)
-* [About us](bridgr/about-us/README.md)
-  * [Story](bridgr/about-us/origins.md)
-  * [Misson](bridgr/about-us/misson.md)
-  * [Team](bridgr/about-us/team.md)
-  * [Links](bridgr/about-us/links.md)
+* [About us](bridgr/about-us.md)
 
 ## Membership
 
