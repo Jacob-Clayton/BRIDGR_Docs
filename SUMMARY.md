@@ -9,7 +9,7 @@
 ## Membership
 
 * [Partner Program](community-collective/partner-program.md)
-* [Partners](membership/partners.md)
+* [Partners](community-collective/current-partners.md)
 
 ## Membership Benefits
 
