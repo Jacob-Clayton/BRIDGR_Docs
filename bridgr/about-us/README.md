@@ -13,7 +13,7 @@ Our founders are passionate about Web3 and the endless possibilities of decentra
 | Mark   | Founder           | Singapore | Entrepreneur  | [in/mepusica/](https://www.linkedin.com/in/mepusica/)       |
 | Kishor | Founder           | Singapore | Tech CEO      | [in/kishormm/](https://www.linkedin.com/in/kishormm/)       |
 | Jacob  | Founder           | UK        | Developer     | [in/jebclayton/](https://www.linkedin.com/in/jebclayton/)   |
-| Joss   | Founder           | France    | Developer     |                                                             |
+| Joss   | Founder           | France    | Developer     | n/a                                                         |
 | Hilal  | Partner & Advisor | Turkey    | Crypto Lawyer | [in/hilalbaktas/](https://www.linkedin.com/in/hilalbaktas/) |
 | Sima   | Partner & Advisor | Turkey    | Web3 Founder  | [in/simabaktas/](https://www.linkedin.com/in/simabaktas/)   |
 | Henry  | Partner & Advisor | Singapore | Web3 Founder  | [in/henry-foo/](https://www.linkedin.com/in/henry-foo/)     |
