@@ -4,12 +4,12 @@
 
 * [Grow with BRIDGR](README.md)
 * [Whitepaper](bridgr/readme/whitepaper.md)
-* [About us](bridgr/about-us.md)
+* [About us](bridgr/about-us/README.md)
 
 ## Membership
 
 * [Partner Program](community-collective/partner-program.md)
-* [Current Partners](community-collective/current-partners.md)
+* [Partners](membership/partners.md)
 
 ## Membership Benefits
 
