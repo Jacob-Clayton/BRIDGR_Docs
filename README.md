@@ -10,7 +10,7 @@ description: Grow your Web3 business with us
 
 <details>
 
-<summary>Friends - <mark style="color:blue;">FREE</mark></summary>
+<summary><mark style="color:blue;">Friends</mark> - $200</summary>
 
 The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 
@@ -40,7 +40,7 @@ _The easily scalable part of BRIDGR._
 
 <details>
 
-<summary>Partner - <mark style="color:green;">PAID</mark></summary>
+<summary><mark style="color:green;">Partner</mark> - £2000</summary>
 
 _This is one of two ways BRIDGR makes money. The other is via direct consultancy._
 
@@ -76,7 +76,7 @@ _Scaling is more of a challenge with paying Partners as they will require a lot 
 
 <details>
 
-<summary>Alpha Partner - <mark style="color:purple;">% of profits</mark></summary>
+<summary><mark style="color:purple;">Alpha Partner</mark> - % of our profits</summary>
 
 _Only 2 remaining places_
 
