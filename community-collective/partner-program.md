@@ -63,3 +63,30 @@ _Join the BRIDGR network and get full access to all our partner's services_
 * $2000+ per year
 
 </details>
+
+Or apply to become an Alpha Partner
+
+<details>
+
+<summary><mark style="color:purple;">Alpha Partner</mark> - Share of our profits</summary>
+
+_Only 2 remaining places_
+
+**Must have:**
+
+* Large global reach
+* Exceptional Web3 services to offer BRIDGR
+
+**BRIDGR gets:**
+
+* To offer their services to all Partners
+
+**They get:**
+
+* Percentage of profits
+
+**They pay:**
+
+* Nothing.
+
+</details>

@@ -5,6 +5,7 @@
 * [Grow with BRIDGR](README.md)
 * [Whitepaper](bridgr/readme/whitepaper.md)
 * [About us](bridgr/about-us/README.md)
+* [Apply to join](bridgr/apply-to-join.md)
 
 ## Membership
 
