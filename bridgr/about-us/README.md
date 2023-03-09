@@ -17,7 +17,7 @@ Our founders are passionate about Web3 and the endless possibilities of decentra
 | Hilal  | Partner & Advisor | Turkey    | Crypto Lawyer  | [in/hilalbaktas/](https://www.linkedin.com/in/hilalbaktas/) |
 | Sima   | Partner & Advisor | Turkey    | Web3 Founder   | [in/simabaktas/](https://www.linkedin.com/in/simabaktas/)   |
 | Henry  | Partner & Advisor | Singapore | Web3 Founder   | [in/henry-foo/](https://www.linkedin.com/in/henry-foo/)     |
-| Jaye   | Partner           | Singapore | Web3 Founder   | [in/jayefoo/](https://www.linkedin.com/in/jayefoo/)         |
+| Jaye   | Partner & Advisor | Singapore | Web3 Founder   | [in/jayefoo/](https://www.linkedin.com/in/jayefoo/)         |
 
 
 
