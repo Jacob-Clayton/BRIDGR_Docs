@@ -1,4 +1,4 @@
-# Partner Program
+# Partnership Program
 
 Become a friend to get exposure through BRIDGR and access to some of our assets.
 
@@ -49,14 +49,14 @@ _Join the BRIDGR network and get full access to all our partner's services_
 **They get:**
 
 * Access to all BRIDGR's Partner services:
-  * [Consultancy](../membership-benefits/web3-onboarding/web3-consultancy.md)
-  * [Network Access](../membership-benefits/web3-acceleration/network-access.md)
-  * [Community Access](../membership-benefits/shared-community/community-access.md)
-  * [Game Integration](../membership-benefits/web3-acceleration/game-integration.md)
-  * [Education](../membership-benefits/web3-onboarding/education.md)
-  * [IRL WEB3 SOCIAL](../membership-benefits/global-events/web3-social.md)
-  * [Whitelists](../membership-benefits/shared-community/whitelists.md)
-  * [Legal](../membership-benefits/web3-onboarding/legal.md)
+  * [Consultancy](../partnership-benefits/web3-onboarding/web3-consultancy.md)
+  * [Network Access](../partnership-benefits/web3-acceleration/network-access.md)
+  * [Community Access](../partnership-benefits/shared-community/community-access.md)
+  * [Game Integration](../partnership-benefits/web3-acceleration/game-integration.md)
+  * [Education](../partnership-benefits/web3-onboarding/education.md)
+  * [IRL WEB3 SOCIAL](../partnership-benefits/global-events/web3-social.md)
+  * [Whitelists](../partnership-benefits/shared-community/whitelists.md)
+  * [Legal](../partnership-benefits/web3-onboarding/legal.md)
 
 **They pay:**
 
