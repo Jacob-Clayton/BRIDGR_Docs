@@ -1,3 +1,7 @@
+---
+description: 'Summary of this entire docs page:'
+---
+
 # Whitepaper
 
 ## Web3 companies raised $94 billion from 2016 to 2022 but more than 90% will fail.&#x20;
