@@ -4,7 +4,6 @@
 
 * [Why BRIDGR?](README.md)
 * [About us](bridgr/about-us/README.md)
-* [Grow with us](<README (1).md>)
 * [Whitepaper](bridgr/readme/whitepaper.md)
 
 ## Membership
