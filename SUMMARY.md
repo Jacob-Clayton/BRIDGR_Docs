@@ -8,7 +8,7 @@
 
 ## Membership
 
-* [Benefits Table](membership/benefits-table.md)
+* [Benefits Summary](membership/benefits-summary.md)
 * [Membership Program](membership/membership-program.md)
 * [Partners](community-collective/current-partners.md)
 
