@@ -1,8 +1,4 @@
----
-description: Current Partners
----
-
-# Partners
+# Current Partners
 
 | Company                                                   | Location                     | Expertise                              | Membership    |
 | --------------------------------------------------------- | ---------------------------- | -------------------------------------- | ------------- |

@@ -10,7 +10,7 @@
 
 * [Benefits Summary](membership/benefits-summary.md)
 * [Membership Program](membership/membership-program.md)
-* [Partners](community-collective/current-partners.md)
+* [Current Partners](membership/current-partners.md)
 
 ## Membership Benefits
 
