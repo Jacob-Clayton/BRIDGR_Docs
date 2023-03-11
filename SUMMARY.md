@@ -3,7 +3,7 @@
 ## BRIDGR
 
 * [BRIDGR](README.md)
-* [Partnership Overview](membership/benefits-summary.md)
+* [Pricing](bridgr/pricing.md)
 * [About us](bridgr/about-us/README.md)
 * [Whitepaper](bridgr/readme/whitepaper.md)
 
