@@ -2,6 +2,12 @@
 
 <figure><img src="../../.gitbook/assets/bridgrlogo(11).png" alt=""><figcaption><p>WEB3 SOCIAL, WEB3 CONSULTANCY... etc</p></figcaption></figure>
 
+Junior consultant: USD 75 per hour
+
+Senior consultant: USD 125 per hour
+
+We will prepare an official proposal based on your needs describing activities, deliverables, timelines, and estimated hours. We will only commence work after you’ve signed off on the proposal.&#x20;
+
 ## Advice and Consultation service to onboard Web2 companies
 
 _Scaling is a challenge. When there is too much work to handle, we hire consultants._
@@ -88,3 +94,15 @@ The consultancy acts as a sales pipeline for the rest of BRIDGR's services, maki
 ## Legal
 
 </details>
+
+## Want to become a member?
+
+Fill in our application form (link to form) today and get a 20% discount on your 1st year membership fees.
+
+## Want to become a friend?
+
+Fill in our application form (link to form) today. We will discount the FRIENDS OF BRIDGR lifetime fee if you decide to become a member.
+
+## Need Web3 consultancy services?
+
+Fill in our contact form and we will get back to you within 3 working days.
