@@ -10,7 +10,7 @@
 ## Membership
 
 * [Benefits Table](membership/benefits-table.md)
-* [Partner Program](community-collective/partner-program.md)
+* [Membership Program](membership/membership-program.md)
 * [Partners](community-collective/current-partners.md)
 
 ## Membership Benefits
