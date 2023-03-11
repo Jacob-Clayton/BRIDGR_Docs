@@ -2,13 +2,14 @@
 
 ## BRIDGR
 
-* [Grow with BRIDGR](README.md)
-* [Whitepaper](bridgr/readme/whitepaper.md)
+* [Why BRIDGR?](README.md)
 * [About us](bridgr/about-us/README.md)
-* [Apply to join](bridgr/apply-to-join.md)
+* [Grow with us](<README (1).md>)
+* [Whitepaper](bridgr/readme/whitepaper.md)
 
 ## Membership
 
+* [Benefits Table](membership/benefits-table.md)
 * [Partner Program](community-collective/partner-program.md)
 * [Partners](community-collective/current-partners.md)
 
