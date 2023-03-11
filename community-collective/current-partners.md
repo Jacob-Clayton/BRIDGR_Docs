@@ -1,6 +1,6 @@
 # Current Partners
 
-| Company                                                   | Location                     | Expertise                              | Membership    |
+| Company                                                   | Location                     | Expertise                              | Partnership   |
 | --------------------------------------------------------- | ---------------------------- | -------------------------------------- | ------------- |
 | [Ethlas](https://ethlas.com/)                             | Singapore                    | Team of 30+ metaverse & game engineers | Alpha Partner |
 | [Crowd Fund Junction](https://www.crowdfundjunction.com/) | Singapore                    | Web3 Venture Capital DAO               | Alpha Partner |
