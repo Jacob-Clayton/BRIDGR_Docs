@@ -1,19 +1,19 @@
 # Pricing
 
-| Benefit:                                                                                     |         Friend          |                        Partner                        |
-| -------------------------------------------------------------------------------------------- | :---------------------: | :---------------------------------------------------: |
-| Price                                                                                        |           $200          |                         £2000                         |
-| Availability                                                                                 |        Unlimited        |                        Limited                        |
-| [Global Events](../membership-benefits/global-events/)                                       |            ✅            |                           ✅                           |
-| BRIDGR Promotion                                                                             |            ✅            |                           ✅                           |
-| [Shared Community](../membership-benefits/shared-community/)                                 |            ✅            |                           ✅                           |
-| [Network Access](../membership-benefits/web3-acceleration/network-access.md)                 |            ❌            |                           ✅                           |
-| [Metaverse & Game Integration](../membership-benefits/web3-acceleration/game-integration.md) |            ❌            |                           ✅                           |
-| [Web3 Consultancy](../membership-benefits/web3-onboarding/web3-consultancy.md)               |            ❌            |                           ✅                           |
-| [Web3 Education Service](../membership-benefits/web3-onboarding/education.md)                |            ❌            |                           ✅                           |
-| Web3 Sustainability                                                                          |            ❌            |                           ✅                           |
-| [Web3 Legal Services](../membership-benefits/web3-onboarding/legal.md)                       |            ❌            |                           ✅                           |
-| You must be:                                                                                 | A Web3 company/ project | A Web3 company willing to share your service with us. |
+| Benefit:                                                         |         Friend          |                        Partner                        |
+| ---------------------------------------------------------------- | :---------------------: | :---------------------------------------------------: |
+| Price                                                            |           $200          |                         £2000                         |
+| Availability                                                     |        Unlimited        |                        Limited                        |
+| [Global Events](broken-reference)                                |            ✅            |                           ✅                           |
+| BRIDGR Promotion                                                 |            ✅            |                           ✅                           |
+| [Shared Community](broken-reference)                             |            ✅            |                           ✅                           |
+| [Network Access](for-partners/network-access.md)                 |            ❌            |                           ✅                           |
+| [Metaverse & Game Integration](for-partners/game-integration.md) |            ❌            |                           ✅                           |
+| [Web3 Consultancy](for-partners/web3-consultancy.md)             |            ❌            |                           ✅                           |
+| [Web3 Education Service](for-partners/education.md)              |            ❌            |                           ✅                           |
+| Web3 Sustainability                                              |            ❌            |                           ✅                           |
+| [Web3 Legal Services](for-partners/legal.md)                     |            ❌            |                           ✅                           |
+| You must be:                                                     | A Web3 company/ project | A Web3 company willing to share your service with us. |
 
 ## Full Details
 
@@ -64,14 +64,14 @@ Get all the benefits of being a Friend, now with __ full access to all our partn
 **They get:**
 
 * Access to all BRIDGR's Partner services:
-  * [Consultancy](../membership-benefits/web3-onboarding/web3-consultancy.md)
-  * [Network Access](../membership-benefits/web3-acceleration/network-access.md)
-  * [Community Access](../membership-benefits/shared-community/community-access.md)
-  * [Game Integration](../membership-benefits/web3-acceleration/game-integration.md)
-  * [Education](../membership-benefits/web3-onboarding/education.md)
-  * [IRL WEB3 SOCIAL](../membership-benefits/global-events/web3-social.md)
-  * [Whitelists](../membership-benefits/shared-community/whitelists.md)
-  * [Legal](../membership-benefits/web3-onboarding/legal.md)
+  * [Consultancy](for-partners/web3-consultancy.md)
+  * [Network Access](for-partners/network-access.md)
+  * [Community Access](for-friends/community-access.md)
+  * [Game Integration](for-partners/game-integration.md)
+  * [Education](for-partners/education.md)
+  * [IRL WEB3 SOCIAL](for-friends/web3-social.md)
+  * [Whitelists](for-friends/whitelists.md)
+  * [Legal](for-partners/legal.md)
 
 **They pay:**
 
