@@ -50,16 +50,16 @@ As a Friend of BRIDGR you will join the "BRIDGR Collective" - our _network of We
 
 <summary>Partner</summary>
 
-_Join the BRIDGR network and get full access to all our partner's services_
+Get all the benefits of being a Friend, now with __ full access to all our partner's specialist services.
 
 **Must have:**&#x20;
 
-* A valuable Web3 service that they are willing to share with BRIDGR
-* Open to hosting events in their location
+* A Web3 service that they are willing to share with BRIDGR.
+* Willing to host one of our WEB3 SOCIAL events in their location.
 
 **BRIDGR gets:**
 
-* Ability to offer their services and network to the rest of BRIDGR's Partners
+* Ability to offer their services and network to the rest of BRIDGR's Partners.
 
 **They get:**
 
