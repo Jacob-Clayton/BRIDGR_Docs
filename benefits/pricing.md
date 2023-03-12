@@ -6,7 +6,7 @@
 | Availability                                                                                 |        Unlimited        |                        Limited                        |
 | [Global Events](../membership-benefits/global-events/)                                       |            ✅            |                           ✅                           |
 | BRIDGR Promotion                                                                             |            ✅            |                           ✅                           |
-| [Shared Community](../membership-benefits/shared-community/)                                 |            ❌            |                           ✅                           |
+| [Shared Community](../membership-benefits/shared-community/)                                 |            ✅            |                           ✅                           |
 | [Network Access](../membership-benefits/web3-acceleration/network-access.md)                 |            ❌            |                           ✅                           |
 | [Metaverse & Game Integration](../membership-benefits/web3-acceleration/game-integration.md) |            ❌            |                           ✅                           |
 | [Web3 Consultancy](../membership-benefits/web3-onboarding/web3-consultancy.md)               |            ❌            |                           ✅                           |
