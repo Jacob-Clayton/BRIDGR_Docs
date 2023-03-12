@@ -11,7 +11,7 @@
 * [For Partners](benefits-method-1/for-partners/README.md)
   * [Game Integration](benefits-method-1/for-partners/game-integration.md)
   * [Network Access](benefits-method-1/for-partners/network-access.md)
-  * [Legal](benefits-method-1/for-partners/legal.md)
+  * [This is a test long title for Legal](benefits-method-1/for-partners/legal.md)
   * [Education](benefits-method-1/for-partners/education.md)
   * [Web3 Consultancy](benefits-method-1/for-partners/web3-consultancy.md)
 * [For Friends](benefits-method-1/for-friends/README.md)
