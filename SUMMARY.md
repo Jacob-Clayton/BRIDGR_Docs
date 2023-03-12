@@ -3,7 +3,6 @@
 ## BRIDGR
 
 * [BRIDGR](README.md)
-* [Pricing](bridgr/pricing.md)
 * [About us](bridgr/about-us/README.md)
 * [Whitepaper](bridgr/readme/whitepaper.md)
 
@@ -11,6 +10,7 @@
 
 * [For Partners](benefits/for-partners.md)
 * [For Friends](benefits/for-friends.md)
+* [Pricing](benefits/pricing.md)
 
 ## Pricing
 

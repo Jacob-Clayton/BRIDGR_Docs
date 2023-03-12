@@ -28,4 +28,12 @@ Increase the knowledge and competencies of your team through BRIDGR’s weekly s
 
 In a tight spot?
 
-\
+## Pricing
+
+* Payment in advance
+* Non transferable
+* Non refundable
+
+USD 2000 annually
+
+## &#x20;
