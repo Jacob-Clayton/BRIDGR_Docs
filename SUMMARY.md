@@ -12,11 +12,6 @@
 * [For Friends](benefits/for-friends.md)
 * [Pricing](benefits/pricing.md)
 
-## Pricing
-
-* [For Partners](pricing/for-partners.md)
-* [For Friends](pricing/for-friends.md)
-
 ## All Benefits
 
 * [Web3 Acceleration](membership-benefits/web3-acceleration/README.md)
