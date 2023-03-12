@@ -21,7 +21,7 @@
 
 <summary>Friend</summary>
 
-The "BRIDGR Collective" - a _network to increase exposure._&#x20;
+As a Friend of BRIDGR you will join the "BRIDGR Collective" - our _network of Web3 companies working together to increase one another's exposure._&#x20;
 
 **Friends must be:**&#x20;
 
@@ -35,12 +35,14 @@ The "BRIDGR Collective" - a _network to increase exposure._&#x20;
 
 **Friends get:**
 
-* Exposure via BRIDGR's communications (Not Partner communications).
-* Sponsorship deals for, and invites to WEB3 SOCIALS worldwide.
+* Access to BRIDGR's community and network
+* Exposure via BRIDGR's communications.
+* Sponsorship deals for, and invites to our WEB3 SOCIALS worldwide.
 
 **Friends Pay:**
 
-* $200
+* One off lifetime $200 fee.
+* Fee discounted if you become a Partner.
 
 </details>
 
