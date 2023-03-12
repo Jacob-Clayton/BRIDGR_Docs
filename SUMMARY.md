@@ -2,7 +2,7 @@
 
 ## BRIDGR
 
-* [BRIDGR](README.md)
+* [Why BRIDGR?](README.md)
 * [About us](bridgr/about-us/README.md)
 * [Whitepaper](bridgr/readme/whitepaper.md)
 
