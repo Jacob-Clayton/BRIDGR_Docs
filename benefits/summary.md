@@ -2,7 +2,7 @@
 
 | Benefit:                   |         Friend          |                         Member                        |
 | -------------------------- | :---------------------: | :---------------------------------------------------: |
-| Price                      |           $200          |                         £2000                         |
+| Price                      |    $200 Lifetime Fee    |                     £2000 Annually                    |
 | Availability               |        Unlimited        |                        Limited                        |
 | Improve Exposure           |            ✅            |                           ✅                           |
 | Web3 Business Model Design |            ❌            |                           ✅                           |
