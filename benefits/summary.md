@@ -12,6 +12,6 @@ description: Pricing and benefits of becoming a Friend or Member.
 | [Access Investors](for-members/access-investors.md)                     |            ❌            |                           ✅                           |
 | [Web3 Legal Advice](for-members/legal.md)                               |            ❌            |                           ✅                           |
 | [Web3 Education](for-members/education.md)                              |            ❌            |                           ✅                           |
-| Price                                                                   |    $200 Lifetime Fee    |                     £2000 Annually                    |
+| Price (USD)                                                             |    $200 Lifetime Fee    |                     £2000 Annually                    |
 | Availability                                                            |        Unlimited        |                        Limited                        |
 | You must be:                                                            | A Web3 company/ project | A Web3 company willing to share your service with us. |
