@@ -1,3 +1,7 @@
+---
+description: Pricing and benefits of becoming a Friend or Member.
+---
+
 # Summary
 
 | Benefit:                   |         Friend          |                         Member                        |
