@@ -1,5 +1,7 @@
 # For Friends
 
+### Become a Friend for free if you sponsor one of our WEB3 SOCIAL events!
+
 ### Increase your visibility
 
 * Exclusive access to BRIDGR’s community via our token gated discord
