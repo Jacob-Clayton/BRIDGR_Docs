@@ -1,8 +1,4 @@
----
-description: (Web3 Consultancy)
----
-
-# Bridge from Web2
+# Web3 Business Model Design
 
 <figure><img src="../../.gitbook/assets/bridgrlogo(11).png" alt=""><figcaption><p>WEB3 SOCIAL, WEB3 CONSULTANCY... etc</p></figcaption></figure>
 

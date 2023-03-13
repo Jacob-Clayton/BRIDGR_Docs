@@ -2,7 +2,7 @@
 description: (Shared Community)
 ---
 
-# Improve Visibility
+# Improve Exposure
 
 ## What’s the general idea?
 
@@ -26,5 +26,16 @@ Ethlas has built game infrastructure, which allows cross community competitions 
 * How many Core Partners can Ethlas integrate?
 * What is the selection criteria?
 * Can Ethlas offer perks for BRIDGR’s community?
+
+## WEB3 SOCIAL Events
+
+<figure><img src="../../.gitbook/assets/bridgr-1920.jpg" alt=""><figcaption></figcaption></figure>
+
+## Value proposition for friends and partners
+
+* Networking with fellow Web3 professionals
+* Free POAP NFT
+* Free drinks
+* Social media exposure
 
 \
