@@ -1,8 +1,10 @@
 ---
-description: (Shared Community)
+description: >-
+  Well-established Web3 projects aren’t getting the visibility they deserve. We
+  aim to change that.
 ---
 
-# Improve Exposure
+# Increased Visibility
 
 ## What’s the general idea?
 

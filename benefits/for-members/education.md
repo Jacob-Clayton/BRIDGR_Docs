@@ -1,8 +1,10 @@
 ---
-description: (Education)
+description: >-
+  We arrange weekly seminars conducted by Web3 industry experts. Can you afford
+  to miss out?
 ---
 
-# Get a Web3 education
+# Web3 Education
 
 ## What’s the general idea?
 

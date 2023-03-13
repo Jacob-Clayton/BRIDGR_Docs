@@ -1,3 +1,9 @@
+---
+description: >-
+  More than 90% of all Web3 business models are flawed. We help ensure yours is
+  designed right.
+---
+
 # Web3 Business Model Design
 
 <figure><img src="../../.gitbook/assets/bridgrlogo(11).png" alt=""><figcaption><p>WEB3 SOCIAL, WEB3 CONSULTANCY... etc</p></figcaption></figure>
