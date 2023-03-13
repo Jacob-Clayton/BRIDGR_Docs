@@ -41,6 +41,8 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 
 **Discord** [https://discord.com/invite/j2ayV98Dc2](https://discord.com/invite/j2ayV98Dc2)
 
+
+
 ## Current Partners
 
 | Company                                                   | Location                     | Expertise                              | Partnership   |
@@ -55,3 +57,4 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 | [The Parlour Global](https://qrco.de/bbJXLk)              | Singapore & South Korea      | IRL NFT bar chain                      | Alpha Partner |
 | Bighaus                                                   | Singapore                    |                                        |               |
 | Bored Island Group                                        | Singapore                    |                                        |               |
+| EDNS                                                      | -                            | Ethereum domain service                | Friend        |

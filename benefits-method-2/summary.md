@@ -1,19 +1,19 @@
 # Summary
 
-| Benefit:                                                                              |         Friend          |                        Partner                        |
-| ------------------------------------------------------------------------------------- | :---------------------: | :---------------------------------------------------: |
-| Price                                                                                 |           $200          |                         £2000                         |
-| Availability                                                                          |        Unlimited        |                        Limited                        |
-| [Global Events](broken-reference)                                                     |            ✅            |                           ✅                           |
-| BRIDGR Promotion                                                                      |            ✅            |                           ✅                           |
-| [Shared Community](broken-reference)                                                  |            ✅            |                           ✅                           |
-| [Network Access](../benefits-method-1/for-partners/network-access.md)                 |            ❌            |                           ✅                           |
-| [Metaverse & Game Integration](../benefits-method-1/for-partners/game-integration.md) |            ❌            |                           ✅                           |
-| [Web3 Consultancy](../benefits-method-1/for-partners/web3-consultancy.md)             |            ❌            |                           ✅                           |
-| [Web3 Education Service](../benefits-method-1/for-partners/education.md)              |            ❌            |                           ✅                           |
-| Web3 Sustainability                                                                   |            ❌            |                           ✅                           |
-| [Web3 Legal Services](../benefits-method-1/for-partners/legal.md)                     |            ❌            |                           ✅                           |
-| You must be:                                                                          | A Web3 company/ project | A Web3 company willing to share your service with us. |
+| Benefit:                                                                             |         Friend          |                         Member                        |
+| ------------------------------------------------------------------------------------ | :---------------------: | :---------------------------------------------------: |
+| Price                                                                                |           $200          |                         £2000                         |
+| Availability                                                                         |        Unlimited        |                        Limited                        |
+| [Global Events](broken-reference)                                                    |            ✅            |                           ✅                           |
+| Increased Visibility                                                                 |            ✅            |                           ✅                           |
+| [Shared Community](broken-reference)                                                 |            ❌            |                           ✅                           |
+| [Network Access](../benefits-method-1/for-members/network-access.md)                 |            ❌            |                           ✅                           |
+| [Metaverse & Game Integration](../benefits-method-1/for-members/game-integration.md) |            ❌            |                           ✅                           |
+| [Web3 Consultancy](../benefits-method-1/for-members/web3-consultancy.md)             |            ❌            |                           ✅                           |
+| [Web3 Education Service](../benefits-method-1/for-members/education.md)              |            ❌            |                           ✅                           |
+| Web3 Sustainability                                                                  |            ❌            |                           ✅                           |
+| [Web3 Legal Services](../benefits-method-1/for-members/legal.md)                     |            ❌            |                           ✅                           |
+| You must be:                                                                         | A Web3 company/ project | A Web3 company willing to share your service with us. |
 
 ## Full Details
 
@@ -48,7 +48,7 @@ As a Friend of BRIDGR you will join the "BRIDGR Collective" - our _network of We
 
 <details>
 
-<summary>Partner</summary>
+<summary>Member</summary>
 
 Get all the benefits of being a Friend, now with __ full access to all our partner's specialist services.
 
@@ -64,14 +64,14 @@ Get all the benefits of being a Friend, now with __ full access to all our partn
 **They get:**
 
 * Access to all BRIDGR's Partner services:
-  * [Consultancy](../benefits-method-1/for-partners/web3-consultancy.md)
-  * [Network Access](../benefits-method-1/for-partners/network-access.md)
+  * [Consultancy](../benefits-method-1/for-members/web3-consultancy.md)
+  * [Network Access](../benefits-method-1/for-members/network-access.md)
   * [Community Access](../benefits-method-1/for-friends/community-access.md)
-  * [Game Integration](../benefits-method-1/for-partners/game-integration.md)
-  * [Education](../benefits-method-1/for-partners/education.md)
+  * [Game Integration](../benefits-method-1/for-members/game-integration.md)
+  * [Education](../benefits-method-1/for-members/education.md)
   * [IRL WEB3 SOCIAL](../benefits-method-1/for-friends/web3-social.md)
   * [Whitelists](../benefits-method-1/for-friends/whitelists.md)
-  * [Legal](../benefits-method-1/for-partners/legal.md)
+  * [Legal](../benefits-method-1/for-members/legal.md)
 
 **They pay:**
 
