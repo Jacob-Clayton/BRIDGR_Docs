@@ -56,5 +56,5 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 | [CryptoFemale](https://www.cryptofemale.org/)             | Turkey, India & California   | Female Web3 empowerment                          | Partner     |
 | [The Parlour Global](https://qrco.de/bbJXLk)              | Singapore & South Korea      | IRL NFT bar chain                                | Partner     |
 | Bighaus                                                   | Singapore                    | IRL NFT art gallery                              | Partner     |
-| [Bored Island Group](https://boredisland.group/)          | Singapore                    | NFT commercialisation                            | Partner     |
+| [Bored Island Group](https://boredisland.group/)          | Singapore                    | NFT commercialization                            | Partner     |
 | [EDNS](https://www.edns.domains/)                         | Hong Kong                    | Ethereum naming service for wallets and websites | Friend      |
