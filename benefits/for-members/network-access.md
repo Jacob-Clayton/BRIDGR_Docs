@@ -1,5 +1,7 @@
 ---
-description: Our focus group is compromised of a diverse cross section Web3 professionals.
+description: >-
+  Our focus groups are compromised of a diverse cross section Web3
+  professionals.
 ---
 
 # Access Web3 Focus Groups
