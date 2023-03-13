@@ -1,10 +1,22 @@
 ---
-description: (Network Access)
+description: >-
+  Our focus group is compromised of a professional and diverse cross section of
+  the Web3 community.
 ---
 
 # Access Web3 Focus Groups
 
-## Ensure you have the right product/market fit prior to launch
+## Why might you need a focus group?
+
+### 1. Ensure you have the right product/market fit prior to launch
+
+### 2. Facilitate creativity in areas you may not have thought about
+
+### 3. Get your idea off the ground&#x20;
+
+
+
+####
 
 So, you’ve developed a great product but you’re not sure how the market will respond to it?
 
