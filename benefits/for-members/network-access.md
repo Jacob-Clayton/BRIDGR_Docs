@@ -10,11 +10,9 @@ description: >-
 
 ### 1. Ensure you have the right product/market fit prior to launch
 
-### 2. Facilitate creativity in areas you may not have thought about
+### 2. Get a good idea of how much your customers will be willing to pay
 
-### 3. Get your idea off the ground&#x20;
-
-
+### 3. Facilitate creativity in areas you may not have thought about
 
 ####
 
