@@ -2,14 +2,14 @@
 
 #### Web3 companies raised $94 billion from 2016 to 2022 but more than 90% will fail. BRIDGR is a collective of Web3 companies offering a unique collaborative platform to accelerate your Web3 growth and help you become a successful business.
 
-We help you overcome the challenges that cause most Web3 companies to fail:
+We help you to make the most of Web3 with:
 
-1. No product/market fit
-2. Lack of cash / failed to raise new capital
-3. Flawed business model
-4. Lack of visibility & poor marketing
-5. Not the right team
-6. Legal problems
+1. Increased visibility
+2. Web3 business model design
+3. Access Web3 focus groups
+4. Access Investors
+5. Web3 legal advice
+6. Web3 education
 
 ## Grow with us
 
