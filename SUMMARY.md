@@ -17,4 +17,3 @@
   * [Web3 Education](benefits/for-members/education.md)
 * [For Friends](benefits/for-friends/README.md)
   * [Increased Visibility](benefits/for-friends/community-access.md)
-  * [Get on Whitelists](benefits/for-friends/whitelists.md)
