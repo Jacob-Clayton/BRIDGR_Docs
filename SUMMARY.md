@@ -17,3 +17,7 @@
   * [Web3 Legal Advice](benefits/for-members/legal.md)
 * [For Friends](benefits/for-friends/README.md)
   * [Increased Visibility](benefits/for-friends/community-access.md)
+
+## Consultancy
+
+* [Web3 Consultancy](consultancy/web3-consultancy.md)
