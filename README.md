@@ -4,12 +4,12 @@
 
 We help you to make the most of Web3 with:
 
-1. Increased visibility
-2. Web3 business model design
-3. Access Web3 focus groups
-4. Access Investors
-5. Web3 legal advice
-6. Web3 education
+1. Increased visibility&#x20;
+2. Web3 education&#x20;
+3. Web3 business model design
+4. Access to Web3 focus groups&#x20;
+5. Access to investors&#x20;
+6. Web3 legal advice
 
 ## Grow with us
 
