@@ -4,6 +4,7 @@
 
 * [Why BRIDGR?](README.md)
 * [About us](bridgr/about-us/README.md)
+* [Grow with us](bridgr/grow-with-us.md)
 
 ## Benefits
 

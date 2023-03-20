@@ -6,34 +6,18 @@ description: >-
 
 # Web3 Education
 
-## What’s the general idea?
+## How can Web3 educational content improve your company?
 
-BRIDGR’s Alpha Partners and combined community have expert Web3 knowledge and knowhow over a wide range of topics. The general idea is to make this knowledge and knowhow available to partners and community members alike.&#x20;
+### 1. Education builds competencies within your team and reduces the need for expensive external support.
 
-## Who’s the target group?
+### 2. Education increases the productivity of your team.
 
-* BRIDGR’s Alpha Partners and Core Partners
-* BRIDGR’s community
+### 3. Education provides inspiration to think out of the box and develop innovative products.&#x20;
 
-## Who contributes to building this?
 
-* Twitter growth strategies for partners (Mark)
-* Event planning for partners (Mark)
-* Crypto alpha for BRIDGR’s community (Kishor)
-* Coding for BRIDGR’s community (Jacob \[Python, SQL] & Jokong\[JS])
-* NFTs and crypto for beginners (Hilal & Sima)
 
-## What’s the delivery platform?
+## Here’s what BRIDGR offers in terms of education:
 
-* The educational content will be delivered through BRIDGR’s token gated discord
-* Each topic will have its own dedicated channel with subchannels
-*
-  * Guides
-  * Q & A
-  * \+++
-
-## Outstanding matters?
-
-* We need to put together an overview of the topics we will cover initially
-* We need to set deadlines for when the content will be ready
-* We need to market the content and start building BRIDGR’s community
+* Access to Web3 topic specific channels in BRIDGR’s token gated discord
+* Access to a monthly Web3 master class hosted on BRIDGR’s token gated discord
+* Access to BRIDGR’s curated database of educational material

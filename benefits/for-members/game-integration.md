@@ -6,38 +6,21 @@ description: >-
 
 # Increased Visibility
 
-## What’s the general idea?
+## Why might you need increased visibility?
 
-Ethlas has built game infrastructure, which allows cross community competitions (e.g. Battle Showdown). The general idea is to offer free Battle Showdown integration for all partners. Perhaps we could also offer BRIDGR’s community perks within Ethlas’ ecosystem?
+### 1. Without visibility even the best of products will fail commercially due to a lack of customer acquisition.
 
-## Who’s the target group?
+### 2. Without visibility you will struggle to retain customers.
 
-* Alpha Partners and Core Partners
-* (Perhaps BRIDGR’s community)
+### 3. Without visibility you will never build brand value. 
 
-## Who contributes to building this?
+## How BRIDGR helps increase your visibility:
 
-* Ethlas is lead
-
-## What’s the delivery platform?
-
-* A dedicated channel for each partner in BRIDGR’s token gated discord where they can get integration support from Ethlas&#x20;
-
-## Outstanding matters?
-
-* How many Core Partners can Ethlas integrate?
-* What is the selection criteria?
-* Can Ethlas offer perks for BRIDGR’s community?
-
-## WEB3 SOCIAL Events
-
-<figure><img src="../../.gitbook/assets/bridgr-1920.jpg" alt=""><figcaption></figcaption></figure>
-
-## Value proposition for friends and partners
-
-* Networking with fellow Web3 professionals
-* Free POAP NFT
-* Free drinks
-* Social media exposure
+* Our partner Ethlas will integrate your company into one of their cross-community casual games, which will allow you to build connections and gain exposure through friendly competition.&#x20;
+* Your company will have its own dedicated channel on BRIDGR’s token gated Discord where you can engage with BRIDGR’s community.&#x20;
+* Your company will be featured in one of BRIDGR’s monthly newsletters (one feature included in the annual membership).
+* Your company will be featured in a dedicated write-up on BRIDGR’s Medium Blog.
+* Your company will be featured in a dedicated AMA session in BRIDGR’s weekly Twitter Spaces.&#x20;
+* Your company will be featured on a joint banner for all members at WEB3 SOCIAL BY BRIDGR events - for sponsorship options check our [Medium article](https://medium.com/@bridgrxyz/increase-your-visibility-become-a-web3-social-by-bridgr-sponsor-6e4cd9d150f1)
 
 \
