@@ -52,7 +52,7 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 | [Mad for NFTs](https://madfornfts.com/)                   | Singapore                    | NFT launch & marketing                           | Partner     |
 | [GlobalB Company](https://globalb.com.tr/)                | Turkey                       | Web3 training and consulting                     | Partner     |
 | [GlobalB Law](https://www.globalblaw.com/)                | Turkey, New York, California | Crypto law firm                                  | Partner     |
-| [Ape Gang](https://apegang.art/#loaded)                   | France                       | Web devs and solidity devs                       | Partner     |
+| [Ape Gang](https://apegang.art/#loaded)                   | France                       | Web and blockchain devs                          | Partner     |
 | [CryptoFemale](https://www.cryptofemale.org/)             | Turkey, India & California   | Female Web3 empowerment                          | Partner     |
 | [The Parlour Global](https://qrco.de/bbJXLk)              | Singapore & South Korea      | IRL NFT bar chain                                | Partner     |
 | Bighaus                                                   | Singapore                    | IRL NFT art gallery                              | Partner     |
