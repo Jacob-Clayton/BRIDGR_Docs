@@ -45,16 +45,18 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 
 ## Current Partners
 
-| Company                                                   | Location                     | Expertise                                        | Partnership |
-| --------------------------------------------------------- | ---------------------------- | ------------------------------------------------ | ----------- |
-| [Ethlas](https://ethlas.com/)                             | Singapore                    | Team of 30+ metaverse & game engineers           | Partner     |
-| [Crowd Fund Junction](https://www.crowdfundjunction.com/) | Singapore                    | Web3 Venture Capital DAO                         | Partner     |
-| [Mad for NFTs](https://madfornfts.com/)                   | Singapore                    | NFT launch & marketing                           | Partner     |
-| [GlobalB Company](https://globalb.com.tr/)                | Turkey                       | Web3 training and consulting                     | Partner     |
-| [GlobalB Law](https://www.globalblaw.com/)                | Turkey, New York, California | Crypto law firm                                  | Partner     |
-| [Ape Gang](https://apegang.art/#loaded)                   | France                       | Web and blockchain devs                          | Partner     |
-| [CryptoFemale](https://www.cryptofemale.org/)             | Turkey, India & California   | Female Web3 empowerment                          | Partner     |
-| [The Parlour Global](https://qrco.de/bbJXLk)              | Singapore & South Korea      | IRL NFT bar chain                                | Partner     |
-| Bighaus                                                   | Singapore                    | IRL NFT art gallery                              | Partner     |
-| [Bored Island Group](https://boredisland.group/)          | Singapore                    | NFT commercialization                            | Partner     |
-| [EDNS](https://www.edns.domains/)                         | Hong Kong                    | Ethereum naming service for wallets and websites | Friend      |
+| Company                                                   | Location                     | Expertise                                                 | Partnership |
+| --------------------------------------------------------- | ---------------------------- | --------------------------------------------------------- | ----------- |
+| [Ethlas](https://ethlas.com/)                             | Singapore                    | Team of 30+ metaverse & game engineers                    | Partner     |
+| [Crowd Fund Junction](https://www.crowdfundjunction.com/) | Singapore                    | Web3 Venture Capital DAO                                  | Partner     |
+| [Mad for NFTs](https://madfornfts.com/)                   | Singapore                    | NFT launch & marketing                                    | Partner     |
+| [GlobalB Company](https://globalb.com.tr/)                | Turkey                       | Web3 training and consulting                              | Partner     |
+| [GlobalB Law](https://www.globalblaw.com/)                | Turkey, New York, California | Crypto law firm                                           | Partner     |
+| [Ape Gang](https://apegang.art/#loaded)                   | France                       | Web and blockchain devs                                   | Partner     |
+| [CryptoFemale](https://www.cryptofemale.org/)             | Turkey, India & California   | Female Web3 empowerment                                   | Partner     |
+| [The Parlour Global](https://qrco.de/bbJXLk)              | Singapore & South Korea      | IRL NFT bar chain                                         | Partner     |
+| Bighaus                                                   | Singapore                    | IRL NFT art gallery                                       | Partner     |
+| [Bored Island Group](https://boredisland.group/)          | Singapore                    | NFT commercialization                                     | Partner     |
+| [EDNS](https://www.edns.domains/)                         | Hong Kong                    | Ethereum naming service for wallets and websites          | Friend      |
+| [Lighthouse Studios](https://wearelight.house/)           | Bali                         | Podcast & video production complex and Web3 events space. | Friend      |
+| [YouPlace](https://twitter.com/youplaceapp)               | Istanbul                     | Web3 event and co-working space.                          | Friend      |
