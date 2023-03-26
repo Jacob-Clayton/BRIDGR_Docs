@@ -43,7 +43,7 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 
 
 
-## Current Partners
+## Partners
 
 | Company                                                   | Location                     | Expertise                                                 | Partnership |
 | --------------------------------------------------------- | ---------------------------- | --------------------------------------------------------- | ----------- |
