@@ -5,11 +5,10 @@
 We set you up for success through:
 
 1. Increased visibility&#x20;
-2. Web3 education&#x20;
-3. Web3 business model design
-4. Access to Web3 focus groups&#x20;
-5. Access to investors&#x20;
-6. Web3 legal advice
+2. Web3 business building
+3. Web3 education&#x20;
+4. Access to investors&#x20;
+5. Web3 legal advice
 
 {% content-ref url="bridgr/grow-with-us.md" %}
 [grow-with-us.md](bridgr/grow-with-us.md)
