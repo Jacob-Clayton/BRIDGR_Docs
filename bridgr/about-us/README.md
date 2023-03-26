@@ -59,4 +59,4 @@ BRIDGR aims to build a thriving and collaborative Web3 ecosystem that is driven 
 | [Bored Island Group](https://boredisland.group/)          | Singapore                    | NFT commercialization                                     | Partner     |
 | [EDNS](https://www.edns.domains/)                         | Hong Kong                    | Ethereum naming service for wallets and websites          | Friend      |
 | [Lighthouse Studios](https://wearelight.house/)           | Bali                         | Podcast & video production complex and Web3 events space. | Friend      |
-| [YouPlace](https://twitter.com/youplaceapp)               | Istanbul                     | Web3 event and co-working space.                          | Friend      |
+| [YouPlace](https://twitter.com/youplaceapp)               | Turkey                       | Web3 event and co-working space.                          | Friend      |
