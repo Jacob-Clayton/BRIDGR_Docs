@@ -8,16 +8,15 @@ Our founders are passionate about Web3 and the endless possibilities of decentra
 
 ## Team
 
-| Name   | Role              | Location  | Profession           | Linkedin                                                    |
-| ------ | ----------------- | --------- | -------------------- | ----------------------------------------------------------- |
-| Mark   | Founder           | Singapore | Entrepreneur         | [in/mepusica/](https://www.linkedin.com/in/mepusica/)       |
-| Kishor | Founder           | Singapore | Tech CEO             | [in/kishormm/](https://www.linkedin.com/in/kishormm/)       |
-| Jacob  | Founder           | UK        | Full Stack Developer | [in/jebclayton/](https://www.linkedin.com/in/jebclayton/)   |
-| Joss   | Founder           | France    | Web3 Developer       | n/a                                                         |
-| Hilal  | Partner & Advisor | Turkey    | Crypto Lawyer        | [in/hilalbaktas/](https://www.linkedin.com/in/hilalbaktas/) |
-| Sima   | Partner & Advisor | Turkey    | Web3 Founder         | [in/simabaktas/](https://www.linkedin.com/in/simabaktas/)   |
-| Henry  | Partner & Advisor | Singapore | Web3 Founder         | [in/henry-foo/](https://www.linkedin.com/in/henry-foo/)     |
-| Jaye   | Partner & Advisor | Singapore | Web3 Founder         | [in/jayefoo/](https://www.linkedin.com/in/jayefoo/)         |
+| Name   | Role              | Location  | Profession        | Linkedin                                                    |
+| ------ | ----------------- | --------- | ----------------- | ----------------------------------------------------------- |
+| Mark   | Founder           | Singapore | Entrepreneur      | [in/mepusica/](https://www.linkedin.com/in/mepusica/)       |
+| Kishor | Founder           | Singapore | Tech CEO          | [in/kishormm/](https://www.linkedin.com/in/kishormm/)       |
+| Jacob  | Founder           | UK        | Software Engineer | [in/jebclayton/](https://www.linkedin.com/in/jebclayton/)   |
+| Hilal  | Partner & Advisor | Turkey    | Crypto Lawyer     | [in/hilalbaktas/](https://www.linkedin.com/in/hilalbaktas/) |
+| Sima   | Partner & Advisor | Turkey    | Web3 Founder      | [in/simabaktas/](https://www.linkedin.com/in/simabaktas/)   |
+| Henry  | Partner & Advisor | Singapore | Web3 Founder      | [in/henry-foo/](https://www.linkedin.com/in/henry-foo/)     |
+| Jaye   | Partner & Advisor | Singapore | Web3 Founder      | [in/jayefoo/](https://www.linkedin.com/in/jayefoo/)         |
 
 
 
