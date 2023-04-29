@@ -1,6 +1,6 @@
-# Why BRIDGR?
+# Why Bridgr?
 
-#### Web3 companies raised $94 billion from 2016 to 2022 but more than 90% will fail. BRIDGR is a collective of Web3 companies offering a unique collaborative platform to accelerate your Web3 growth and help you become a successful business.
+#### Web3 companies raised $94 billion from 2016 to 2022 but more than 90% will fail. Bridgr is a collective of Web3 companies offering a unique collaborative platform to accelerate your Web3 growth and help you become a successful business.
 
 We set you up for success through:
 

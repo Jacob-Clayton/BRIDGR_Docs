@@ -18,7 +18,7 @@ description: >-
 
 
 
-## Here’s how BRIDGR can help you improve your business model:
+## Here’s how Bridgr can help you improve your business model:
 
 * In a dedicated session, our team of experienced entrepreneurs will review and give feedback on your value proposition and customer segments.&#x20;
 * In a dedicated session, our partner Ethlas will provide you with the insights you need to develop a strategy for building revenue through gamification.&#x20;
@@ -43,7 +43,7 @@ Our focus groups are compromised of a diverse cross section of Web3 professional
 
 So, you’ve developed a great product but you’re not sure how the market will respond to it?
 
-Reduce the risk of commercial failure by leveraging on BRIDGR’s community of seasoned Web3 professionals and enthusiasts for product feedback prior to launch.&#x20;
+Reduce the risk of commercial failure by leveraging on Bridgr's community of seasoned Web3 professionals and enthusiasts for product feedback prior to launch.&#x20;
 
 We deliver product feedback through tailored focus group sessions where BRIDGR:
 
@@ -54,6 +54,6 @@ We deliver product feedback through tailored focus group sessions where BRIDGR:
 
 Included in your annual membership:
 
-* Two tailored focus group sessions facilitated by BRIDGR&#x20;
+* Two tailored focus group sessions facilitated by Bridgr&#x20;
 
 Additional focus group sessions are charged at USD 500 per session.

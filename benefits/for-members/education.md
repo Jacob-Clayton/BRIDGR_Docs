@@ -18,6 +18,6 @@ description: >-
 
 ## Here’s what BRIDGR offers in terms of education:
 
-* Access to Web3 topic specific channels in BRIDGR’s token gated discord
-* Access to a monthly Web3 master class hosted on BRIDGR’s token gated discord
+* Access to Web3 topic specific channels in Bridgr’s token gated discord
+* Access to a monthly Web3 master class hosted on Bridgr’s token gated discord
 * Access to BRIDGR’s curated database of educational material

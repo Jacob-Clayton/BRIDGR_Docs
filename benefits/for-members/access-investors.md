@@ -17,6 +17,6 @@ description: >-
 \
 
 
-As a member you will get access to BRIDGR’s token gated investor contact database and meeting request system.
+As a member you will get access to Bridgr’s token gated investor contact database and meeting request system.
 
 \

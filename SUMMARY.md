@@ -2,7 +2,7 @@
 
 ## BRIDGR
 
-* [Why BRIDGR?](README.md)
+* [Why Bridgr?](README.md)
 * [About us](bridgr/about-us/README.md)
 * [Grow with us](bridgr/grow-with-us.md)
 
@@ -15,6 +15,6 @@
   * [Web3 Education](benefits/for-members/education.md)
   * [Access Investors](benefits/for-members/access-investors.md)
   * [Web3 Legal Advice](benefits/for-members/legal.md)
-  * [Web3 Development](benefits/for-members/web3-development.md)
+  * [Web3 Development](consultancy/web3-consultancy.md)
 * [For Friends](benefits/for-friends/README.md)
   * [Increased Visibility](benefits/for-friends/community-access.md)

@@ -8,11 +8,11 @@ description: >-
 
 How do increase visibility?
 
-1. When you join the FRIENDS OF BRIDGR programme you will become part of a network of likeminded companies, projects, and individuals who are passionate about Web3 and have a proven track record of delivering value. Through regular networking sessions you will have the opportunity to share what you are working on and be inspired by others.&#x20;
-2. As a FRIEND OF BRIDGR you will have exclusive access to BRIDGR’s community through sharing session via dedicated Twitter Spaces and/or Discord AMAs.
-3. FRIENDS OF BRIDGR enjoy a featured listing on our website & discord.
-4. FRIENDS OF BRIDGR will be featured in BRIDGR’s monthly newsletter.
-5. FRIENDS OF BRIDGR have dibs on sponsoring WEB3 SOCIAL BY BRIDGR events. As a sponsor you are featured via the main event banner (digital), dedicated individual banners (digital), and a pitch either by our local event hosts or a representative from your team.
+1. When you join the Friends Bridgr programme you will become part of a network of likeminded companies, projects, and individuals who are passionate about Web3 and have a proven track record of delivering value. Through regular networking sessions you will have the opportunity to share what you are working on and be inspired by others.&#x20;
+2. As a Friend of Bridgr you will have exclusive access to Bridgr’s community through sharing session via dedicated Twitter Spaces and/or Discord AMAs.
+3. Friends enjoy a featured listing on our website & discord.
+4. Friends will be featured in BRIDGR’s monthly newsletter.
+5. Friends have dibs on sponsoring WEB3 SOCIAL By Bridgr events. As a sponsor you are featured via the main event banner (digital), dedicated individual banners (digital), and a pitch either by our local event hosts or a representative from your team.
 
 ## WEB3 SOCIAL Events
 

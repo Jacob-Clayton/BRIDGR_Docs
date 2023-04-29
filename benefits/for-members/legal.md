@@ -17,9 +17,9 @@ description: >-
 \
 
 
-## How can BRIDGR help?
+## How can Bridgr help?
 
-* Our legal experts offer three (3) free of charge consultancy sessions (1 hour duration) per year for an initial review of any legal issues you may have and recommended next steps.&#x20;
-* Members of BRIDGR get 20% discount on any subsequent advice needed.&#x20;
+* Our legal experts offer three free of charge consultancy sessions (1 hour duration) per year for an initial review of any legal issues you may have and recommended next steps.&#x20;
+* Members of Bridgr get 20% discount on any subsequent advice needed.&#x20;
 
 \
