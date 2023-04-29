@@ -15,9 +15,6 @@
   * [Web3 Education](benefits/for-members/education.md)
   * [Access Investors](benefits/for-members/access-investors.md)
   * [Web3 Legal Advice](benefits/for-members/legal.md)
+  * [Web3 Development](benefits/for-members/web3-development.md)
 * [For Friends](benefits/for-friends/README.md)
   * [Increased Visibility](benefits/for-friends/community-access.md)
-
-## Consultancy
-
-* [Web3 Consultancy](consultancy/web3-consultancy.md)

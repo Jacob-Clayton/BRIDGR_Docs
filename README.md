@@ -9,6 +9,7 @@ We set you up for success through:
 3. Web3 education&#x20;
 4. Access to investors&#x20;
 5. Web3 legal advice
+6. Web3 software development
 
 {% content-ref url="bridgr/grow-with-us.md" %}
 [grow-with-us.md](bridgr/grow-with-us.md)
