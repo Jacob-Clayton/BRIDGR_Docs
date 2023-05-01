@@ -21,5 +21,3 @@ description: >-
 * Your company will be featured in a dedicated write-up on Bridgr’s Medium Blog.
 * Your company will be featured in a dedicated AMA session in Bridgr’s weekly Twitter Spaces.&#x20;
 * Your company will be featured on a joint banner for all members at WEB3 SOCIAL By Bridgr events - for sponsorship options check our [Medium article](https://medium.com/@bridgrxyz/increase-your-visibility-become-a-web3-social-by-bridgr-sponsor-6e4cd9d150f1)
-
-\

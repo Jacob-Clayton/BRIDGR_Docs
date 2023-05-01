@@ -10,7 +10,7 @@
 
 * [Summary](benefits/summary.md)
 * [For Members](benefits/for-members/README.md)
-  * [Increased Visibility](benefits/for-members/game-integration.md)
+  * [Increased Visibility](benefits/for-members/increased-visibility.md)
   * [Web3 Business Building](benefits/for-members/web3-business-building.md)
   * [Web3 Education](benefits/for-members/education.md)
   * [Access Investors](benefits/for-members/access-investors.md)

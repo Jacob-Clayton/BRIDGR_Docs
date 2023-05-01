@@ -6,7 +6,7 @@ description: Pricing and benefits of becoming a Friend or Member.
 
 | Benefit                                                         |                             Friend                              |     Member     |
 | --------------------------------------------------------------- | :-------------------------------------------------------------: | :------------: |
-| [Increased Visibility](for-members/game-integration.md)         |                                ✅                                |        ✅       |
+| [Increased Visibility](broken-reference)                        |                                ✅                                |        ✅       |
 | [Web3 Education](for-members/education.md)                      |                                ❌                                |        ✅       |
 | [Web3 Business Building](for-members/web3-business-building.md) |                                ❌                                |        ✅       |
 | [Access Investors](for-members/access-investors.md)             |                                ❌                                |        ✅       |
